@@ -1,0 +1,29 @@
+# Environment
+.env
+*.pyc
+__pycache__/
+
+# Data (too large for git)
+data/source/*.geojson
+data/temp/
+data/chunks/
+
+# Logs
+logs/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+*.egg-info/
+dist/
+build/
+venv/
+.venv/

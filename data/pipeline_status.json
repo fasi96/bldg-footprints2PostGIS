@@ -1,0 +1,63 @@
+{
+  "Delaware": {
+    "status": "completed",
+    "features": 357534,
+    "chunks": 8,
+    "file_size_mb": 94.0,
+    "completed_at": "2026-02-06T23:59:22+00:00"
+  },
+  "RhodeIsland": {
+    "status": "completed",
+    "started_at": "2026-02-06T19:22:10+00:00",
+    "features": 392581,
+    "chunks": 8,
+    "file_size_mb": 105.21,
+    "completed_at": "2026-02-06T19:25:37+00:00"
+  },
+  "Vermont": {
+    "status": "completed",
+    "started_at": "2026-02-06T19:36:59+00:00",
+    "error": "Validation failed: expected 351,266 but DB has 402,532 (missing -51,266)",
+    "failed_at": "2026-02-06T19:28:57+00:00",
+    "features": 351266,
+    "chunks": 8,
+    "file_size_mb": 87.92,
+    "completed_at": "2026-02-06T19:39:38+00:00"
+  },
+  "Alabama": {
+    "status": "completed",
+    "started_at": "2026-02-06T20:02:42+00:00",
+    "features": 2455168,
+    "chunks": 50,
+    "file_size_mb": 672.58,
+    "completed_at": "2026-02-06T20:41:07+00:00"
+  },
+  "Alaska": {
+    "status": "completed",
+    "started_at": "2026-02-06T20:41:07+00:00",
+    "features": 111042,
+    "chunks": 3,
+    "file_size_mb": 30.0,
+    "completed_at": "2026-02-06T20:43:22+00:00"
+  },
+  "Arizona": {
+    "status": "completed",
+    "started_at": "2026-02-06T22:55:02+00:00",
+    "features": 2738732,
+    "chunks": 55,
+    "file_size_mb": 806.59,
+    "completed_at": "2026-02-06T23:42:22+00:00"
+  },
+  "Arkansas": {
+    "status": "completed",
+    "started_at": "2026-02-06T23:42:22+00:00",
+    "features": 1571198,
+    "chunks": 32,
+    "file_size_mb": 425.4,
+    "completed_at": "2026-02-07T00:10:20+00:00"
+  },
+  "California": {
+    "status": "chunking",
+    "started_at": "2026-02-07T00:10:20+00:00"
+  }
+}

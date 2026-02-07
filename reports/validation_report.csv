@@ -1,0 +1,4 @@
+state,file_path,feature_count,file_size_mb,loaded_count,first_loaded,last_loaded,chunks_ok,chunks_failed,match,missing,percent_complete
+RhodeIsland,data\source\RhodeIsland.geojson,392581,105.21,250000,2026-02-06 18:46:23.821694,2026-02-06 18:56:58.318002,5,0,False,142581,63.68
+Vermont,data\source\Vermont.geojson,351266,87.92,0,,,0,0,False,351266,0.0
+Delaware,data\source\Delaware.geojson,357534,94.0,357534,2026-02-06 18:57:05.588135,2026-02-06 18:59:18.847124,8,0,True,0,100.0

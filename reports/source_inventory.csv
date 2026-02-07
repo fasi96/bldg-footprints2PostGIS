@@ -1,0 +1,8 @@
+state,file_path,feature_count,file_size_mb
+Arizona,data\source\Arizona.geojson,2738732,806.59
+Alabama,data\source\Alabama.geojson,2455168,672.58
+Arkansas,data\source\Arkansas.geojson,1571198,425.4
+RhodeIsland,data\source\RhodeIsland.geojson,392581,105.21
+Delaware,data\source\Delaware.geojson,357534,94.0
+Vermont,data\source\Vermont.geojson,351266,87.92
+Alaska,data\source\Alaska.geojson,111042,30.0
