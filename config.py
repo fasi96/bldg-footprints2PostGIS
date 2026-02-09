@@ -17,8 +17,7 @@ load_dotenv(PROJECT_ROOT / ".env")
 # Database
 # ──────────────────────────────────────────────
 DB_CONNECTION = os.getenv(
-    "DB_CONNECTION",
-    "postgres://ms_loader:FL5ReFb%3FLcGzfo8x@p.rghhocac5jdvbawv4fke5uq3de.db.postgresbridge.com:5432/ms_buildings_load?sslmode=require",
+    "DB_CONNECTION"
 )
 
 # ──────────────────────────────────────────────
